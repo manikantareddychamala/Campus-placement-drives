@@ -1,4 +1,4 @@
-#  introduction Campus-placement-drives prediction
+#  Introduction Campus-placement-drives prediction
 
 ML algorithms can predict the likelihood of a candidate staying with the company for a certain period based on historical data and various factors like job satisfaction, compensation, and career growth opportunities. This helps in focusing efforts on retaining top talent.
 Natural Language Processing (NLP): NLP techniques can be applied to analyze job descriptions and candidate resumes. By extracting key information from job postings and resumes, NLP algorithms can help match candidates with relevant job 
