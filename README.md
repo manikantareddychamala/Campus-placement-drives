@@ -1,5 +1,9 @@
 # Campus-placement-drives
 
+[
+![WhatsApp Image 2024-04-18 at 4 41 42 PM](https://github.com/manikantareddychamala/Campus-placement-drives/assets/162694056/2d0d7318-0335-4410-98d8-bf67210a099b)
+](url)
+
 
 Using machine learning (ML) for campus placement can streamline and optimize various aspects of the process. Here's how ML can be leveraged:
 
